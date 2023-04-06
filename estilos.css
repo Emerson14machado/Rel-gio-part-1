@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(7, 0, 68);
+}
+
+h1 {
+    text-align: center;
+    font-size: 3pc;
+    color: white;
+}
+
+div {
+    text-align: center;
+    font-size: 2pc;
+    color: white;
+}
+
+span.rr {
+    color: red;
+}
+
+span.ee {
+    color: blue;
+}
+
+span.ll {
+    color: yellow;
+}
+
+span.oo {
+    color: red;
+}
+span.gg{
+    color: blue;
+}
+span.ii{
+    color: yellow;
+}
+span.ooo{
+    color: red;
+}
